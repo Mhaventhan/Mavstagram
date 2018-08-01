@@ -1,0 +1,21 @@
+section{
+  border: solid 1px black;
+  width: 500px;
+  height: 100%;
+  float:left;
+
+}
+
+#id1{
+  margin-left: 200px;
+}
+
+main{
+  height: 745px;
+}
+
+footer{
+  border: solid 1px;
+  height: 100px;
+  width: 100%;
+}
